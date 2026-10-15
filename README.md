@@ -18,3 +18,5 @@ python main.py
 - main.py: simple Python entry file 
 - README.md: project documentation 
 - .gitignore: ignored files configuration 
+## Linux Setup
+Learned WSL2 + Ubuntu basics on Day2.
